@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="XML_com.adobe.xmp">&lt;?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?&gt; &lt;x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c003 79.9690a87, 2025/03/06-19:12:03        "&gt; &lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt; &lt;rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmp:CreatorTool="Adobe Photoshop 26.8 (Windows)" xmp:CreateDate="2025-06-17T23:05:58+03:00" xmp:ModifyDate="2025-06-21T15:42:06+03:00" xmp:MetadataDate="2025-06-21T15:42:06+03:00" dc:format="image/png" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:2ed62c12-edae-7944-b0be-8c25c0176fab" xmpMM:DocumentID="adobe:docid:photoshop:bbec70e5-0d10-9c46-8ca8-4da32989a4d1" xmpMM:OriginalDocumentID="xmp.did:ef4efb41-066e-c24a-bf67-cc1c824ec251" tiff:Orientation="1" tiff:XResolution="720000/10000" tiff:YResolution="720000/10000" tiff:ResolutionUnit="2" exif:ColorSpace="65535" exif:PixelXDimension="800" exif:PixelYDimension="750"&gt; &lt;xmpMM:History&gt; &lt;rdf:Seq&gt; &lt;rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:ef4efb41-066e-c24a-bf67-cc1c824ec251" stEvt:when="2025-06-17T23:05:58+03:00" stEvt:softwareAgent="Adobe Photoshop 26.8 (Windows)"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:bed9198d-384b-4140-a289-4f642491ba82" stEvt:when="2025-06-17T23:17:43+03:00" stEvt:softwareAgent="Adobe Photoshop 26.8 (Windows)" stEvt:changed="/"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:046bf0ec-1d98-fc4d-a769-30629f4bbda9" stEvt:when="2025-06-21T15:42:06+03:00" stEvt:softwareAgent="Adobe Photoshop 26.8 (Windows)" stEvt:changed="/"/&gt; &lt;rdf:li stEvt:action="converted" stEvt:parameters="from application/vnd.adobe.photoshop to image/png"/&gt; &lt;rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/png"/&gt; &lt;rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:2ed62c12-edae-7944-b0be-8c25c0176fab" stEvt:when="2025-06-21T15:42:06+03:00" stEvt:softwareAgent="Adobe Photoshop 26.8 (Windows)" stEvt:changed="/"/&gt; &lt;/rdf:Seq&gt; &lt;/xmpMM:History&gt; &lt;xmpMM:DerivedFrom stRef:instanceID="xmp.iid:046bf0ec-1d98-fc4d-a769-30629f4bbda9" stRef:documentID="xmp.did:ef4efb41-066e-c24a-bf67-cc1c824ec251" stRef:originalDocumentID="xmp.did:ef4efb41-066e-c24a-bf67-cc1c824ec251"/&gt; &lt;/rdf:Description&gt; &lt;/rdf:RDF&gt; &lt;/x:xmpmeta&gt; &lt;?xpacket end="r"?&gt;</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">108</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">211.75642296944</MDI>
+      <MDI key="STATISTICS_STDDEV">33.520504985345</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.04</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">108</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">224.13927702155</MDI>
+      <MDI key="STATISTICS_STDDEV">16.388663228907</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.04</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">72</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">202.1706481565</MDI>
+      <MDI key="STATISTICS_STDDEV">36.545030519351</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.04</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
