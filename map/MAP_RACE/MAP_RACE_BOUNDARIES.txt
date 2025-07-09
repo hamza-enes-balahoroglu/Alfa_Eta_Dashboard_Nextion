@@ -1,0 +1,24 @@
+Paste in geo_to_pixel.h file :
+
+/*--------------------- Geo Boundaries ---------------------*/
+#define NW_lat 40.791284217f     /*!< Latitude of the top-left (NW) corner of the map */
+#define NW_lon 29.447577362f     /*!< Longitude of the top-left (NW) corner of the map */
+#define SE_lat 40.782318197f      /*!< Latitude of the bottom-right (SE) corner of the map */
+#define SE_lon 29.460412478f      /*!< Longitude of the bottom-right (SE) corner of the map */
+
+
+
+Paste in geo_to_pixel.c file :
+
+/**
+ * @brief Array of GPS checkpoints representing key locations on the track.
+ *
+ * Each checkpoint holds a status flag (0 = not reached, 1 = reached),
+ * along with latitude and longitude coordinates.
+ */
+static GPS_Checkpoint Checkpoints[3] = {
+    	{.status = 0, .lat = 40.78743065f, .lon = 29.45139832f},  // Start point
+	{.status = 0, .lat = 40.78848651f, .lon = 29.45713582f}, 
+	{.status = 0, .lat = 40.7872771f, .lon = 29.4576436f},
+	{.status = 0, .lat = 40.7857818f, .lon = 29.4539718f}
+};
